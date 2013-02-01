@@ -1,0 +1,62 @@
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,What is the purpose of this book 'Getting Things Done' by David Allen.,,,
+Option,0,How to solve mathematical problems quickly,,Incorrect answer.
+Option,0,How to think smart?,,Incorrect answer.
+Option,50,How to multitask?,,Somewhat correct but not perfect
+Option,100,"Be more relaxed, and get a lot more accomplished with much less effort",,Correct.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,"According to David Allen, What does he say about why things/projects get stuck and makes our life full of confusions?",,,
+Option,0,Because we are lazy to think.,,Incorrect Answer.
+Option,100,Because the doing of them has not been defined.,,Correct answer.
+Option,50,Because we are not intereseted in things we are assigned to do.,,Some what correct
+Option,0,None of the above,,Incorrect Answer.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,How does your brain behave when you have multiple things to do at the same time?,,,
+Option,0,We get headache,,Incorrect answer.
+Option,0,The brain ignores it because we don't care about those things,,Incorrect answer.
+Option,100,"Generates Personal failure, pressure becuase we can't do both tasks at the same time",,Correct Answer.
+Option,0,All of the above,,Incorrect Ans.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,"Out of the list below, which of the options has correctly ordered sequence of “The Five Stages of Mastering Workflow”?",,,
+Option,0,"Organize, Process, Collect, Review and Do",,Incorrect Answer.
+Option,50,"Collect, Process, Organize, Do and Review",,Some what correct.
+Option,100,"Collect, Process, Organize, Review and Do",,Correct Answer.
+Option,0,"Do, Review, Process, Organize and Collect",,Incorrect Answer.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,What are the  The Four-Criteria Model for Choosing Actions in the Moment?,,,
+Option,0,"Organize, Process, Collect, Review",,Incorrect answer.
+Option,0,"Context, Time available, Energy available, Priority",,correct answer.
+Option,50,"Trash, incubation, and reference",,Incorrect answer.
+Option,100,"Money, fame, risk and result",,Incorrect answer.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,Which are the Three category in which the No-Action-Systems fall under?,,,
+Option,0,"Collect, Reveiw, and do",,Incorrect answer.
+Option,0,"Process, Organize, and reference",,Incorrect answer.
+Option,50,"trash, incubation, and reference",,Correct answer.
+Option,100,"Organize, incubation, and reference",,Incorrect answer.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
+,,,,
+NewQuestion,MC,,,
+Title,ECE 200 Quiz: Getting Things Done,,,
+QuestionText,What is The Six-Level Model for Reviewing Your Own Work?,,,
+Option,100,Shows six different perspective of looking into the life to decide the priorities,,Correct answer.
+Option,0,Shows six different ways you can acheive your goal,,Incorrect answer.
+Option,0,Shows six different ways to finish the tasks,,Incorrect answer.
+Option,0,Shows six different ways to excell in your tasks,,Incorrect answer.
+Feedback,ECE 200 Quiz: Getting Things Done,,,
